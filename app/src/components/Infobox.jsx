@@ -3,6 +3,8 @@ import React from 'react'
 // data
 import Language from './../data/language.json'
 
+// components
+
 function Infobox() {
 
   return (

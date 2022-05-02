@@ -2,7 +2,6 @@
 
 ### Nächste Schritte
 
-- wenn nicht verfügbar gitIgnore Datei einfügen
 - sass installieren
 - App Vorzeigbarer programmieren.
 - React Struktur besser aufbauen

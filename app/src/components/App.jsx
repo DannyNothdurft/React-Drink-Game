@@ -4,6 +4,7 @@ import './App.scss';
 // components
 import Header from './Header';
 import PlayButton from './PlayButton';
+import Game from './Game';
 
 
 function App() {
@@ -17,7 +18,7 @@ function App() {
 
       { playButton ? <PlayButton
           playButton = {playButton}
-          unsetPlayButton = {unsetPlayButton} /> : null 
+          unsetPlayButton = {unsetPlayButton} /> : <Game /> 
       }
       
     </div>

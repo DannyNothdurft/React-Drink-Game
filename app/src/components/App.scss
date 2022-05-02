@@ -1,5 +1,5 @@
-.App-header {
-  background-color: #282c34;
+.app {
+  background-color: #242d7b;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -7,4 +7,16 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+}
+
+.header-component {
+  position: absolute;
+  top: 0px;
+  width: 100%;
+
+  h1 {
+    font-family: 'Bangers', cursive;
+    text-align: center;
+    text-transform: uppercase;
+  }
 }

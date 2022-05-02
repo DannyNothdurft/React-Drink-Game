@@ -1,14 +1,13 @@
 import React from 'react';
 import './App.scss';
 
+// components
+import Header from './Header';
+
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        
-        <h2>Aufgeräumt</h2>
-        
-      </header>
+    <div className="app">
+      <Header />
     </div>
   );
 }

@@ -14,3 +14,4 @@
 - React mit `npx create-react-app app` installiert
 - Sass mit `npm i sass` installieren
 - React App aufgeräumt. Datein gelöscht, Ordner hinzugefügt, Datein verschoben, Datei Formate verändert.
+- Google Fonds importiert. Header Componente hinzugefügt. Hintergrund geändert.

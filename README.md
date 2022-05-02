@@ -19,4 +19,6 @@
 
 ### Links zu Dokumentationen
 
+- [React App](https://reactjs.org/)
+- [Sacc / Scss](https://sass-lang.com/)
 - [React Icons](https://react-icons.github.io/react-icons)

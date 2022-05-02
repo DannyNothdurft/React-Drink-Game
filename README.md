@@ -2,7 +2,6 @@
 
 ### Nächste Schritte
 
-- React installieren
 - wenn nicht verfügbar gitIgnore Datei einfügen
 - sass installieren
 - App Vorzeigbarer programmieren.
@@ -11,3 +10,7 @@
 - Eine Lösung für Einnahmen erzeugen.
 - React Struktur besser aufbauen.
 - Manifest integrieren.
+
+### Erledigte Schritte
+
+- React mit `npx create-react-app app` installiert

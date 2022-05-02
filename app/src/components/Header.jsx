@@ -1,6 +1,9 @@
 import React, { useState } from 'react'
 import {FaInfoCircle} from 'react-icons/fa';
 
+// components
+import Infobox from './Infobox';
+
 function Header() {
 
   const [ info, setInfo ] = useState(false);
@@ -13,9 +16,9 @@ function Header() {
         >
           <FaInfoCircle />
         </button>
-        { info ? <div>Funktioniert</div> : null }
+        { info ? <Infobox /> : null }
     </div>
   )
 }
 
-export default Header
+export default Header;

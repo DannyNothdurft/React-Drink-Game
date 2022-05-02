@@ -19,4 +19,15 @@
     text-align: center;
     text-transform: uppercase;
   }
+
+  button {
+    border: none;
+    background: none;
+    color: white;
+    font-size: calc(20px + 2vmin);
+
+    position: absolute;
+    top: 20px;
+    right: 20px;
+  }
 }

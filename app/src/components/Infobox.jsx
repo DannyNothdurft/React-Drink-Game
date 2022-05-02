@@ -2,7 +2,11 @@ import React from 'react'
 
 function Infobox() {
   return (
-    <div>Infobox</div>
+    <div className='Infobox'>
+        <h2>Überschrift</h2>
+        <hr />
+        <p>Anleitung für das spiel aus JSON datei</p>
+    </div>
   )
 }
 

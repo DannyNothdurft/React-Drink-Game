@@ -2,7 +2,7 @@
 
 ### Nächste Schritte
 
-- sass installieren
+- React App aufräumen.
 - App Vorzeigbarer programmieren.
 - React Struktur besser aufbauen
 - Spielanleitung mehr Sprachig erzeugen. Sprachen in einer JSON-Datei abspeichern.
@@ -13,3 +13,4 @@
 ### Erledigte Schritte
 
 - React mit `npx create-react-app app` installiert
+- Sass mit `npm i sass` installieren

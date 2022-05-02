@@ -10,7 +10,6 @@ import Game from './Game';
 function App() {
 
   const [ playButton, unsetPlayButton ] = useState(true);
-  // const [ play, setPlay ] = useState(false);
 
   return (
     <div className="app">

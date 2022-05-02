@@ -2,7 +2,6 @@
 
 ### Nächste Schritte
 
-- React App aufräumen.
 - App Vorzeigbarer programmieren.
 - React Struktur besser aufbauen
 - Spielanleitung mehr Sprachig erzeugen. Sprachen in einer JSON-Datei abspeichern.
@@ -14,3 +13,4 @@
 
 - React mit `npx create-react-app app` installiert
 - Sass mit `npm i sass` installieren
+- React App aufgeräumt. Datein gelöscht, Ordner hinzugefügt, Datein verschoben, Datei Formate verändert.

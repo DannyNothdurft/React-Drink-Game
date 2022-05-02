@@ -19,4 +19,4 @@
 
 ### Links zu Dokumentationen
 
-[URL="https://react-icons.github.io/react-icons"] React Icons [/URL]
+- React Icons (https://react-icons.github.io/react-icons)

@@ -1,12 +1,12 @@
 import React from 'react'
 
-function languagreDropdown() {
+function LanguageDropdown() {
   return (
-    <select>
+    <select className='dropdown'>
         <option value="Deutsch">Deutsch</option>
         <option value="English">English</option>
     </select>
   )
 }
 
-export default languagreDropdown
+export default LanguageDropdown;

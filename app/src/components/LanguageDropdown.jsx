@@ -7,7 +7,7 @@ function LanguageDropdown() {
       <option value="Deutsch">Deutsch</option>
       <option value="English">English</option>
     </select>
-  )
+  );
 }
 
 export default LanguageDropdown;

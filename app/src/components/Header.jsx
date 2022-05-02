@@ -18,7 +18,7 @@ function Header() {
         </button>
         { info ? <Infobox /> : null }
     </div>
-  )
+  );
 }
 
 export default Header;

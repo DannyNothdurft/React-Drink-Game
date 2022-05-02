@@ -26,7 +26,7 @@ function Infobox() {
 
         <LanguageDropdown />
     </div>
-  )
+  );
 }
 
 export default Infobox;

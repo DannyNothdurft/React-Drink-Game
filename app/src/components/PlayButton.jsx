@@ -12,7 +12,7 @@ function PlayButton({ playButton, unsetPlayButton }) {
         >
             <img src={imgButton} alt="Play Button" />
         </button>
-    )
+    );
 }
 
 export default PlayButton;

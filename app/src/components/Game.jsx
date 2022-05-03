@@ -41,7 +41,7 @@ function Game() {
                 <p>{ flipped ? 'New Round' : 'Uncover' }</p>
             </div>
         </div>
-    );
+    )
 }
 
 export default Game;

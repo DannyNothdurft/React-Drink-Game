@@ -3,8 +3,8 @@
         "language": "Deutsch",
         "contents": {
             "h2": "Spielanleitung",
-            "p1": "Drücken den Play Button um das Spiel zu beginnen",
-            "p2": "Auf dem Display erscheint nun eine Aufforderung",
+            "p1": "Drücken den Play Button um das Spiel zu beginnen.",
+            "p2": "Auf dem Display erscheint nun eine Aufforderung.",
             "l1": "YOU DRINK",
             "l2": "SELECT A DRINKER",
             "l3": "EVERYBODY DRINKS",
@@ -12,6 +12,21 @@
             "p3": "Es ist bestimmt schon klar was bei jedem punkt gemeint ist, aber hier nochmal die Bedeutung der jeweiligen Aktionen.",
             "p4": "Bei YOU DRINK musst der Spieler etwas trinken und wählt den nächsten Spieler. In diesem Spiel geht es nicht in Uhrzeigersin. Erscheint SELECT A DRINKER wählt der Spieler ein anderen Mitspieler zum trinken. Der ausgewählte Spieler ist auch der nächste Spieler. Wenn EVERYBODY DRINKS kommt, muss jeder trinken und der Spieler wählt den nächsten Spieler. Bei NOBODY DRINKS bleiben alle verschohnt und niemand muss trinken.",
             "p5": "Sie können dieses Spiel mit Shot's trinken. Bier, Cocktail und co. sind aber auch möglich."
+        }
+    },
+    {
+        "language": "English",
+        "contents": {
+            "h2": "Game instructions",
+            "p1": "Press the play button to start the game.",
+            "p2": "A prompt now appears on the display.",
+            "l1": "YOU DRINK",
+            "l2": "SELECT A DRINKER",
+            "l3": "EVERYBODY DRINKS",
+            "l4": "NOBODY DRINKS",
+            "p3": "I am sure it is already clear what is meant by each point, but here again is the meaning of each action.",
+            "p4": "In YOU DRINK, the player has to drink something and chooses the next player. This game does not go clockwise. If SELECT A DRINKER appears, the player chooses another player to drink with. The selected player is also the next player. If EVERYBODY DRINKS comes up, everyone must drink and the player chooses the next player. In NOBODY DRINKS everyone is spared and no one has to drink.",
+            "p5": "You can drink this game with shots. But beer, cocktail and co. are also possible."
         }
     }
 ]

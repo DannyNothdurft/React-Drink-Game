@@ -2,11 +2,7 @@
 
 ### Nächste Schritte
 
-- App Vorzeigbarer programmieren.
-- React Struktur besser aufbauen
-- Spielanleitung mehr Sprachig erzeugen. Sprachen in einer JSON-Datei abspeichern.
 - Eine Lösung für Einnahmen erzeugen.
-- React Struktur besser aufbauen.
 - Manifest integrieren.
 
 ### Erledigte Schritte
@@ -16,6 +12,9 @@
 - React App aufgeräumt. Datein gelöscht, Ordner hinzugefügt, Datein verschoben, Datei Formate verändert.
 - Google Fonds importiert. Header Componente hinzugefügt. Hintergrund geändert.
 - React Icons mit `npm install react-icons --save` installiert.
+- App Vorzeigbarer programmiert.
+- React Struktur verbessert.
+- Spielanleitung mehr Sprachig erzeugt. Sprachen sind in einer JSON-Datei abspeichern.
 
 ### Links zu Dokumentationen
 

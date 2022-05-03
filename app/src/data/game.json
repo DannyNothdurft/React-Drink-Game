@@ -1,6 +1,18 @@
 [
-    "YOU DRINK",
-    "SELECT A DRINKER",
-    "EVERYBODY DRINKS",
-    "NOBODY DRINKS"
+    {
+        "text": "YOU DRINK",
+        "img": "./img/youDrink.png"
+    },
+    {
+        "text": "SELECT A DRINKER",
+        "img": "./img/selecrPlayer.png"
+    },
+    {
+        "text": "EVERYBODY DRINKS",
+        "img": "./img/allDrink.png"
+    },
+    {
+        "text": "NOBODY DRINKS",
+        "img": "./img/noDrink.png"
+    }
 ]

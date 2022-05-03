@@ -41,17 +41,33 @@
     }
 }
 
-.game-button {
-  background: none;
-  border: none;
+.game-component {
 
-  position: absolute;
-  bottom: 50px;
-  left: calc( 50% - 150px );
+  .play-card {
+    color: black;
+    text-align: center;
+    padding: 2px;
+    background-color: white;
+    width: 300px;
+    height: 400px;
+    border: 2px solid black;
+    border-radius: 10px;
+    box-shadow: 0px 0px 5px 5px black;
 
-    img {
-      width: 300px;
-    }
+  }
+
+  .game-button {
+    background: none;
+    border: none;
+  
+    position: absolute;
+    bottom: 50px;
+    left: calc( 50% - 150px );
+  
+      img {
+        width: 300px;
+      }
+  }
 }
 
 .infobox {

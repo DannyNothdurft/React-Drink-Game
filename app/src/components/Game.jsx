@@ -16,8 +16,10 @@ function Game() {
     }
 
     return (
-        <div>
-            <p>{game[random]}</p>
+        <div className='game-component'>
+            <div className='play-card'>
+                <p>{game[random]}</p>
+            </div>
             <button
                 className='game-button'
                 onClick={play}

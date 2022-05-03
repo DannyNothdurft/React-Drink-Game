@@ -21,18 +21,21 @@ function Infobox() {
   return (
     <div className='infobox'>
         <h2>{ lang.h2 }</h2>
+        <h6>{ lang.p1 }</h6>
         <hr />
-        <p>{ lang.p1 }</p>
         <p>{ lang.p2 }</p>
+        <p>{ lang.p3 }</p>
+        <p>{ lang.p4 }</p>
         <ul>
             <li>{ lang.l1 }</li>
             <li>{ lang.l2 }</li>
             <li>{ lang.l3 }</li>
             <li>{ lang.l4 }</li>
         </ul>
-        <p>{ lang.p3 }</p>
-        <p>{ lang.p4 }</p>
         <p>{ lang.p5 }</p>
+        <p>{ lang.p6 }</p>
+        <p>{ lang.p7 }</p>
+        <p>{ lang.p8 }</p>
 
         <LanguageDropdown
           select={select}

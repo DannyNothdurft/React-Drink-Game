@@ -3,6 +3,7 @@
 ### Nächste Schritte
 
 - Logo ändern
+- Anleitung Jason ändern
 - HTML Dokument überarbeiten
 - Eine Lösung für Einnahmen erzeugen.
 

@@ -2,8 +2,8 @@
 
 ### Nächste Schritte
 
-- Responsive programmieren.
-- Manifest integrieren.
+- Logo ändern
+- HTML Dokument überarbeiten
 - Eine Lösung für Einnahmen erzeugen.
 
 ### Erledigte Schritte
@@ -16,6 +16,8 @@
 - App Vorzeigbarer programmiert.
 - React Struktur verbessert.
 - Spielanleitung mehr Sprachig erzeugt. Sprachen sind in einer JSON-Datei abspeichern.
+- Responsive programmiert
+- Manifest überarbeitet
 
 ### Links zu Dokumentationen
 

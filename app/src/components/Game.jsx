@@ -10,22 +10,24 @@ import cardBack from '../img/cardBack.png';
 function Game() {
 
     const [ random, setRandom ] = useState(0)
+    const [ flipped, setFlipped ] = useState(false);
 
     const play = () => {
         const generateRandom = Math.round( Math.random() * game.length - 0.5 );
         console.log(game.length)
         setRandom(generateRandom)
-        console.log(generateRandom)
+        setFlipped(!flipped)
     }
-    console.log(random)
+
+    console.log(flipped)
 
     return (
         <div className='game-component'>
-            <div className='play-card'>
-                <div className='back'>
+            <div className={flipped ? "play-card" : "play-card flip"}>
+                <div className={ flipped ? 'back flip' : 'back' }>
                     <img src={cardBack} alt="Karten Rückseite" />
                 </div>
-                <div className='front'>
+                <div className={ flipped ? 'front flip' : 'front' }>
                     <p>{ game[random].text }</p>
                     <hr />
                     <img src={game[random].img} alt="Random img" />

@@ -64,6 +64,12 @@
       left: calc(50% - 150px);
         
       transform: rotateY(0deg);
+      transition: all ease-in 1s;
+
+      &.flip{
+        transform: rotateY(90deg);
+        transition-delay: 1s;
+      }
 
         img {
           width: 200px;
@@ -86,6 +92,12 @@
       left: calc(50% - 150px);
         
       transform: rotateY(90deg);
+      transition: all ease-in 1s;
+
+      &.flip{
+          transform: rotateY(0deg);
+          transition-delay: 1s;
+      }
         
         img {
           width: 200px;

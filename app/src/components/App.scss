@@ -156,16 +156,13 @@
    
       button {
         top: 5px;
-        right: 5px;
+        right: -10px;
       }
   }
 
   .game-component {
 
     .play-card {
-      position: absolute;
-      top: 100px;
-      left: calc( 50% - 90px);
 
       .back {
         width: 180px;
@@ -182,7 +179,7 @@
         
           img {
             width: 100px;
-            margin-top: 15px;
+            margin-top: 30px;
           }
       }
     }

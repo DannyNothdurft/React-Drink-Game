@@ -2,8 +2,9 @@
 
 ### Nächste Schritte
 
-- Eine Lösung für Einnahmen erzeugen.
+- Responsive programmieren.
 - Manifest integrieren.
+- Eine Lösung für Einnahmen erzeugen.
 
 ### Erledigte Schritte
 

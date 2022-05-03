@@ -2,8 +2,6 @@
 
 ### Nächste Schritte
 
-- Logo ändern
-- Anleitung Jason ändern
 - HTML Dokument überarbeiten
 - Eine Lösung für Einnahmen erzeugen.
 
@@ -19,6 +17,8 @@
 - Spielanleitung mehr Sprachig erzeugt. Sprachen sind in einer JSON-Datei abspeichern.
 - Responsive programmiert
 - Manifest überarbeitet
+- Logo geändert
+- Json Anleitung geändert
 
 ### Links zu Dokumentationen
 

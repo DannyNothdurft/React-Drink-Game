@@ -41,6 +41,19 @@
     }
 }
 
+.game-button {
+  background: none;
+  border: none;
+
+  position: absolute;
+  bottom: 50px;
+  left: calc( 50% - 150px );
+
+    img {
+      width: 300px;
+    }
+}
+
 .infobox {
   height: 80vh;
   width: 80%;

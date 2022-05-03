@@ -3,6 +3,9 @@ import React, { useState } from 'react'
 // data
 import game from '../data/game.json'
 
+// img
+import newRoundButton from '../img/newRoundButton.png'
+
 function Game() {
 
     const [ random, setRandom ] = useState()
@@ -16,10 +19,10 @@ function Game() {
         <div>
             <p>{game[random]}</p>
             <button
-            className='game-button'
+                className='game-button'
                 onClick={play}
             >
-                PLAY
+                <img src={newRoundButton} alt="New Round Button" />
             </button>
         </div>
     );

@@ -4,7 +4,6 @@ import React, { useState } from 'react'
 import game from '../data/game.json'
 
 // img
-import newRoundButton from '../img/newRoundButton.png'
 import cardBack from '../img/cardBack.png';
 
 function Game() {
@@ -14,12 +13,13 @@ function Game() {
 
     const play = () => {
         const generateRandom = Math.round( Math.random() * game.length - 0.5 );
-        console.log(game.length)
         setRandom(generateRandom)
         setFlipped(!flipped)
     }
 
-    console.log(flipped)
+    const umdrehen = () => {
+        setFlipped(!flipped)
+    }
 
     return (
         <div className='game-component'>
@@ -34,12 +34,12 @@ function Game() {
                 </div>
             </div>
             
-            <button
+            <div
                 className='game-button'
-                onClick={play}
+                onClick={flipped ? umdrehen : play}
             >
-                <img src={newRoundButton} alt="New Round Button" />
-            </button>
+                <p>{ flipped ? 'New Round' : 'Uncover' }</p>
+            </div>
         </div>
     );
 }

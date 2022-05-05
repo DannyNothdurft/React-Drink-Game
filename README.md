@@ -2,7 +2,6 @@
 
 ### Nächste Schritte
 
-- HTML Dokument überarbeiten
 - Eine Lösung für Einnahmen erzeugen.
 
 ### Erledigte Schritte
@@ -19,6 +18,7 @@
 - Manifest überarbeitet
 - Logo geändert
 - Json Anleitung geändert
+- HTML Meta angaben geändert
 
 ### Links zu Dokumentationen
 
